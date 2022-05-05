@@ -8,7 +8,6 @@ public class Main {
     service.calculate(amount, registered);
 //    long bonus = service.calculate(amount, registered);
 //    System.out.println(bonus);
-
   }
 }
 
